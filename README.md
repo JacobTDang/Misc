@@ -1,2 +1,2 @@
-# Misc
-mini projects
+# MiniProjects
+random code stuff 
